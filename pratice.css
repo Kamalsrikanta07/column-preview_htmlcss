@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+}
+.main{
+
+display: flex;
+
+margin: 157px 486px 38px 416px;
+}
+.card1{background-color: orange;width: 208px;height: 325px;color: white;}
+.card1 img{
+
+width: 44px;
+
+height: 46px;
+
+position: relative;
+
+left: 12px;
+
+top: 7px;
+}
+.card1 h1{
+
+margin-left: 10px;
+}
+.card1 p{
+
+color: white;
+
+font-size: 14px;
+
+margin-left: 12px;
+}
+.card1 button{margin-left: 10px;padding: 10px 10px 10px 10px;border-radius: 22px;border: none;margin-top: 8px;}
+.card2{
+
+background-color: cadetblue;
+
+color: white;
+
+width: 233px;
+}
+.card2 img{
+
+width: 44px;
+
+height: 46px;
+
+position: relative;
+
+left: 12px;
+
+top: 7px;
+}
+.card2 h1{
+
+margin-left: 10px;
+}
+.card2 p{
+
+margin-left: 10px;
+}
+.card2 button{
+    
+margin-left: 9px;
+    
+padding: 10px 10px 10px 10px;
+    
+border-radius: 20px;
+    
+border: none;
+}
+.card3{
+
+background-color: #151509;
+
+color: white;
+
+width: 233px;
+}
+.card3 img{
+
+width: 44px;
+
+height: 46px;
+
+position: relative;
+
+left: 12px;
+
+top: 7px;
+}
+.card3 h1{
+
+margin-left: 13px;
+}
+.card3 p{
+
+margin-left: 11px;
+}
+.card3 button{
+    
+margin-left: 8px;
+    
+padding: 10px 10px 10px 10px;
+    
+border-radius: 20px;
+}
